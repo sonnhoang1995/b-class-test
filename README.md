@@ -26,4 +26,4 @@ In the output, you'll find options to open the app in a
 
 After successfully run the app, you can go to Sign Up Screen to sign up with email and password (email can't be existed in user list in local storage)
 
-After that, sign in with the newly sign up user to go to Users Screen
+After that, sign in with the newly sign up user to go to Users Screen, you can click in each user to view User Detail Screen
